@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.given;
 import io.restassured.path.json.JsonPath;
 
 public class OAuthAuthentication {
-	static String password = "8802220367";
+	static String password = "0832882248";
 
 	public static void main(String[] args) throws InterruptedException {
 
